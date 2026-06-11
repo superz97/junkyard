@@ -149,6 +149,8 @@ a {
     justify-content: space-between;
     align-items: center;
     padding: 60px 80px;
+    margin: 80px;
+    border-radius: 12px;
 }
 
 .cta-text h2 {
