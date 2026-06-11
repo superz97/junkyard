@@ -119,3 +119,26 @@ a {
 .info-card p {
     color: #1F2937;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 100px;
+}
+
+.quote blockquote p {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.quote-author {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1F2937;
+    text-align: right;
+    max-width: 800px;
+    margin: 20px auto 0;
+}
