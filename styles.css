@@ -142,3 +142,31 @@ a {
     max-width: 800px;
     margin: 20px auto 0;
 }
+
+.cta {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px 80px;
+}
+
+.cta-text h2 {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.cta-text p {
+    color: #E5E7EB;
+}
+
+.cta-button {
+    background-color: transparent;
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
+    border-radius: 8px;
+    padding: 10px 30px;
+    font-weight: 700;
+    cursor: pointer;
+}
